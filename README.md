@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awfajri
 - 👀 I’m interested in Web Programming
 - 🌱 Currently, I am computer science student at Singaperbangsa Karawang University.
-- 📫 You can reach me on instagram @theprnceofplvto
+- 📫 You can reach me on instagram @awfajri
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: arsya is my gurlfriend
 
