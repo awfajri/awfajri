@@ -3,7 +3,6 @@
 - 🌱 Currently, I am computer science student at Singaperbangsa Karawang University.
 - 📫 You can reach me on instagram @awfajri
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: arsya is my gurlfriend
 
 <!---
 awfajri/awfajri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
